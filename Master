@@ -1,0 +1,3 @@
+{pathtofile}
+powershell
+-command\"{'pathtofile'\"
